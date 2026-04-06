@@ -70,3 +70,5 @@ While the Vivado software simulator requires over 25 minutes to resolve a single
 **National Institute of Technology Karnataka, Surathkal**
 * **Team Members**: Rushil Jain, Shamit Hoysal, Vamshikrishna V Bidari, Vikram Singh
 * **Project Mentors**: Mukul Paliwal, Ratan Y Mallya, Sirigiri Tarun
+
+This project was built upon the "Tiny-GPU" open source repository.
